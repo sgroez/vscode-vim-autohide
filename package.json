@@ -1,11 +1,11 @@
 {
-    "name": "vscode-autohide",
-    "displayName": "Auto Hide",
-    "description": "A tool to autohide the sidebar and terminal panel.",
-    "version": "1.0.10",
-    "publisher": "sirmspencer",
+    "name": "vscode-vim-autohide",
+    "displayName": "Vim Auto Hide",
+    "description": "An edited version of Sirmspencer's auto hide, reduced down to the most basic code to hide the sidebar.",
+    "version": "1.0.0",
+    "publisher": "sgroez",
     "repository": {
-        "url": "https://github.com/sirmspencer/vscode-autohide"
+        "url": "https://github.com/sgroez/vscode-vim-autohide"
     },
     "icon": "Images/Icons/Logo_128.png",
     "engines": {
