@@ -1,7 +1,6 @@
 "use strict";
 
 import * as vscode from "vscode";
-import { TextEditorSelectionChangeKind } from "vscode";
 
 export function activate(context: vscode.ExtensionContext) {
     //close sidebar on load
